@@ -47,10 +47,10 @@ st.markdown("""
 2. Jackson  Mutava
 3. Martin  Nyamu
 4. Jeff  
-5. Ester  
+5. Esther  
 6. Aaron  
 7. Johnrich  
-8. Esther  
+8. Erick 
 
 📘 *Masters in AI Smart Clustering Pro – Interactive Clustering Explorer (2025)*
 ---
