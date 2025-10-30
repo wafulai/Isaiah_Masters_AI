@@ -39,6 +39,22 @@ st.title("🤖 Smart Auto-Clustering Advisor — Pro")
 st.markdown(
     "Side-by-side comparison (K-Means, DBSCAN, Hierarchical) with live Silhouette, Elbow, 2D & 3D PCA (Plotly). Now includes a comparison heatmap and PDF report export."
 )
+# --- Authors Section ---
+st.markdown("""
+---
+👨‍💻 **Developed by:**
+1. Isaiah  Wafula 
+2. Jackson  Mutava
+3. Martin  Nyamu
+4. Jeff  
+5. Ester  
+6. Aaron  
+7. Johnrich  
+8. Esther  
+
+📘 *Masters in AI Smart Clustering Pro – Interactive Clustering Explorer (2025)*
+---
+""")
 
 # ---------------------------
 # Data loading & preview
