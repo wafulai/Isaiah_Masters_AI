@@ -43,12 +43,12 @@ st.markdown(
 st.markdown("""
 ---
 👨‍💻 **Developed by:**
-1. Isaiah  Wafula 
-2. Jackson  Mutava
-3. Martin  Nyamu
+1. Martin  Nyamu
+2. Isaiah  Wafula
+3. Jackson  Mutava
 4. Jeff  
 5. Esther  
-6. Aaron  
+6. Aaron Muuo
 7. Johnrich  
 8. Erick 
 
