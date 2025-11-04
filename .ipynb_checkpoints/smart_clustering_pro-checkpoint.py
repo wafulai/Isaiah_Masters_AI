@@ -52,7 +52,7 @@ st.markdown("""
 7. Johnrich  
 8. Erick 
 
-📘 *OUK Masters in AI GROUP 4 PROJECT: Smart Clustering Pro – Interactive Clustering Explorer (2025)*
+📘 *Masters in AI Smart Clustering Pro – Interactive Clustering Explorer (2025)*
 ---
 """)
 
